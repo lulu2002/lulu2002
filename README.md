@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Kotlin、Redis**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at [here](https://github.com/lulu2002?tab=repositories)
 
-- 📝 I regularly write articles on [datoublog.me](datoublog.me)
+- 📝 I regularly write articles on [datoublog.me](https://datoublog.me/)
 
 - 💬 Ask me about **Java, NMS, Minecraft Minigames And anything about Minecraft Server**
 

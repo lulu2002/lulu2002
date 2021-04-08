@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/魯魯" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="魯魯" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC5p4fFy3qIYH2I34ADCr-CA/videos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="魯魯" height="30" width="40" /></a>
 <a href="https://discord.gg/魯魯#5475" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="魯魯#5475" height="30" width="40" /></a>
 </p>
 

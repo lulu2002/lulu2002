@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm LU__LU</h1>
-<h3 align="center">A Minecraft Plugin/Mod Developer and Server Owner!</h3>
+<h3 align="center">Web Developer | Minecraft Server Owner + Java Developer | Donkey Car Lover</h3>
 
 - 🔭 I’m currently working on **Multi-Server ArenaPvP System**
 
-- 🌱 I’m currently learning **Kotlin、Redis**
+- 🌱 I’m currently learning **Test Driven Development**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/lulu2002?tab=repositories)
 
 - 📝 I regularly write articles on [datoublog.me](https://datoublog.me/)
 
-- 💬 Ask me about **Java, NMS, Minecraft Minigames And anything about Minecraft Server**
+- 💬 Ask me about **Python, Java, Kotlin And anything about Minecraft Server**
 
 - 📫 How to reach me **lose9749@gmail.com**
 

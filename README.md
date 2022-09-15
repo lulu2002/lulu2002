@@ -1,18 +1,7 @@
 <h1 align="center">Hi 👋, I'm LU__LU</h1>
-<h3 align="center">Web Developer | Minecraft Server Owner + Java Developer | Donkey Car Lover</h3>
+<h3 align="center">Web Developer | Minecraft Java Developer</h3>
 
 - 🔭 I’m currently working on **Multi-Server ArenaPvP System**
-
-- 🌱 I’m currently learning **Test Driven Development**
-
-- 👨‍💻 All of my projects are available at [here](https://github.com/lulu2002?tab=repositories)
-
-- 📝 I regularly write articles on [datoublog.me](https://datoublog.me/)
-
-- 💬 Ask me about **Python, Java, Kotlin And anything about Minecraft Server**
-
-- 📫 How to reach me **lose9749@gmail.com**
-
 - ⚡ Fun fact **For me, it's hard to survive without having white rice per day 😖**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LU__LU</h1>
 <h3 align="center">Web Developer | Minecraft Java Developer</h3>
 
-- 🔭 I’m currently working on **Multi-Server ArenaPvP System**
+- 🔭 Junior Web developer at [hanlin edu tech (翰林雲端學院)](https://github.com/hanlin-edu-tech) 
 - ⚡ Fun fact **For me, it's hard to survive without having white rice per day 😖**
 
 <h3 align="left">Connect with me:</h3>

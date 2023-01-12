@@ -4,6 +4,12 @@
 - 🔭 Love clean architecture, clean code and TDD!
 - ⚡ Fun fact **For me, it's hard to survive without having white rice per day 😖**
 
+<h3 align="left">I wrote dev blogs on medium!</h3>
+<p align="left">
+Sometimes I do wrote some artibles that shares experiences while developing! most will be architecture design and refactoring. </br>
+  Latest blog: <a href="https://medium.com/@datou.lin/介面不全然等於抽象-class-用實際案例聊聊-介面分離原則-isp-7e123c62337f">介面不全然等於抽象 Class — 用實際案例聊聊 介面分離原則 (ISP)</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UC5p4fFy3qIYH2I34ADCr-CA/videos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="魯魯" height="30" width="40" /></a>

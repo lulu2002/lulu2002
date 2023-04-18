@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LU__LU</h1>
+<h1 align="center">Hi 👋, I'm Datou (大頭)</h1>
 <h3 align="center">Web Developer | Minecraft Java Developer</h3>
 
 - 🔭 Love clean architecture, clean code and TDD!

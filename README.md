@@ -1,12 +1,31 @@
 <h1 align="center">Hi 👋, I'm Datou (大頭)</h1>
-<h3 align="center">Web Developer | Minecraft Java Developer</h3>
+<h3 align="center">Sports Science Developer | Web Developer | Minecraft Java Developer</h3>
 
+- ✅ Fall in love with Static Typed Languages
 - 🔭 Love clean architecture, clean code and TDD!
 - ⚡ Fun fact **For me, it's hard to survive without having white rice per day 😖**
 
+<h3 align="left">I work at KeepTossingLab (傳接球實驗室)</h3>
+<p align="left">
+A group of people who love playing baseball and are passionate about sports science have set a goal to provide the baseball community with enhanced analytics and data collection tools, enabling coaches to train smarter.
+
+I work here as a Leading Developer of [TrendUp](https://www.keeptossinglab.com/trendup-me) project.
+
+</p>
+<h3 align="left">I am using Minecraft to develop a new E-Sports</h3>
+<p align="left">
+CastleWars - an advanced Minecraft 5v5 PvP game where players make strategic decisions and face trade-offs. The ultimate objective is to destroy the opponent's core to achieve victory.
+
+After two years of development, CastleWars has evolved beyond a simple minigame. It now boasts a well-balanced ecosystem with features such as statistics and live streaming, positioning it as a potential Esport.
+
+Don't hesitate to check it out! Prepare to be amazed by the incredible potential of a Minecraft PvP game. [CLICK HERE](https://www.youtube.com/live/cARFwuseIJw?feature=share&t=2581)
+  
+<img width="1440" alt="image" src="https://github.com/lulu2002/lulu2002/assets/41278925/4e86b78e-4683-4e9b-9bcd-ccaa9359f183">
+</p>
+
 <h3 align="left">I wrote dev blogs on medium!</h3>
 <p align="left">
-Sometimes I do wrote some artibles that shares experiences while developing! most will be architecture design and refactoring. </br>
+Sometimes I wrote some articles that shares experiences while developing! most will be architecture design and refactoring. </br>
   Latest blog: <a href="https://medium.com/@datou.lin/介面不全然等於抽象-class-用實際案例聊聊-介面分離原則-isp-7e123c62337f">介面不全然等於抽象 Class — 用實際案例聊聊 介面分離原則 (ISP)</a>
 </p>
 

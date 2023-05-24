@@ -18,7 +18,7 @@ CastleWars - an advanced Minecraft 5v5 PvP game where players make strategic dec
 
 After two years of development, CastleWars has evolved beyond a simple minigame. It now boasts a well-balanced ecosystem with features such as statistics and live streaming, positioning it as a potential Esport.
 
-Don't hesitate to check it out! Prepare to be amazed by the incredible potential of a Minecraft PvP game. [CLICK HERE](https://www.youtube.com/live/cARFwuseIJw?feature=share&t=2581)
+Don't hesitate to check it out! Prepare to be amazed by the incredible potential of a Minecraft PvP game. [CLICK HERE](https://www.youtube.com/live/cARFwuseIJw?feature=share&t=3322)
   
 <img width="1440" alt="image" src="https://github.com/lulu2002/lulu2002/assets/41278925/4e86b78e-4683-4e9b-9bcd-ccaa9359f183">
 </p>
